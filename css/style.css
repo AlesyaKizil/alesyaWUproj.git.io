@@ -1,0 +1,65 @@
+body {
+    width: 1600px;
+    
+}
+
+h1, h2 {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    font-weight: 700;
+}
+
+h2 {
+    color: #fff;
+    background-color: green;
+}
+
+p {
+    font-size: 18px;
+}
+
+.intro1 {
+    width: 120px;
+    background-color: blue;
+    color: #fff;
+    margin-bottom: 100px;
+    line-height: 1.2em;
+}
+
+.logo {
+    width: 150px;
+}
+
+.first-code {
+    color: red;
+}
+
+.skills-question {
+    padding: 50px;
+}
+
+.header-h2 {
+    padding-top: 7px ;
+    padding-bottom: 7px;
+}
+
+.my-future-skills {
+    margin-left: 100px;
+}
+
+.link {
+    color: blue;
+    font-size: 18px;
+}
+
+.link:hover {
+    font-size: 19px;
+    color: rgb(24, 95, 44);
+}
+
+.list-items-skills {
+    border: solid 1px #000;
+}
